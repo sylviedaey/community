@@ -59,3 +59,21 @@ Doel is om 1 avondsessie te organiseren in de 2 maanden. Hieronder een lijst van
 | Build tools server + client | 0 | ? |
 | Backend communicatie | 0 | ? |
 | Deepdive session | 0 | ? |
+
+## Communicatie
+Hieronder resultaat van brainstormsessie over hoe we gaan communiceren als community. Een aantal van deze zaken zijn reeds gerealiseerd. Deze tools zullen regelmatig geevalueerd worden.
+
+| Kanaal | Dots | Omschrijving |
+| ------ | ---- | ------------ |
+| Github | 12 | Community github aangemaakt, stuur een mail naar dieter.goetelen@realdolmen.com als je toegevoegd wilt worden aan de "organisatie" |
+| Slack | 9 | Kanaal aangemaakt in bestaand realdolmen MSCC kanaal. http://rdmscc.slack.com, registreren kan met uw RealDolmen e-mail adress |
+| Nieuwsbrief | 6 | |
+| Repository met examples | 5 | Toevoegen aan github |
+| EventBrite | 4 | |
+| Overzicht wat er gedaan is in Angular | 4 | |
+| Mailinglijst | 3 | |
+| Blog | 3 | |
+| Gitter | 0 | |
+| Portal | 0 | |
+| Doodle | 0 | |
+| RD Website (externen) meetups | 0 | |
