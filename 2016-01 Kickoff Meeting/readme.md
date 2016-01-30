@@ -1,4 +1,5 @@
 # Verslag kick off meeting
+Presentatie: http://slides.com/dietergoetelen/deck-4
 
 ## 1. Tracks
 Een track bestaat uit 1 dagopleiding gevolgd door 3 avondsessies. Voorlopig zijn er 2 tracks in de running:
@@ -18,7 +19,7 @@ Er zijn geen vereisten voor het basis track, stuur een mailtje naar dieter.goete
     - Filters
     - Dependency Injection
 - Avond #1
-    - Routing met UI-ROuter
+    - Routing met UI-Router
 - Avond #2
     - HTTP Tips & tricks
 - Avond #3
@@ -27,8 +28,14 @@ Er zijn geen vereisten voor het basis track, stuur een mailtje naar dieter.goete
 ### 1.2 Advanced track
 Dit track loopt verder op het **basis track**, vereisten zijn dus ook dat je deze gevogld hebt of relevante ervaring. Programma is nog uit te werken, focus zal liggen op architectuur en voorbereiding op Angular 2.0.
 
-## 2. Avondsessies
-Doel is om 1 avondsessie te organiseren in de 2 maanden. Hieronder een lijst van avondsessies die volgens de community het interessantst zijn. Gelieve aan te vullen indien je een sessie wilt geven, of stuur een mail naar dieter.goetelen@realdolmen.com.
+## 2. Workshop - Angular 2.0 Masterclass
+Op 18 & 19 april komen de experts van [ThoughTram](http://thoughtram.io/) om ons klaar te stomen voor Angular 2.0.
+Indien je ervaring hebt met Angular 1.x en als je hier graag bij wilt zijn, graag een mailtje naar dieter.goetelen@realdolmen.com.
+
+## 3. DOT-Voting
+
+### 3.1 Avondsessies
+Doel is om 1 avondsessie te organiseren om de 2 maanden. Hieronder een lijst van avondsessies die volgens de community het interessantst zijn. Gelieve aan te vullen indien je een sessie wilt geven, of stuur een mail naar dieter.goetelen@realdolmen.com.
 
 | Onderwerp              | Dots | Spreker  |
 |------------------------| ---- | -------- |
@@ -60,7 +67,7 @@ Doel is om 1 avondsessie te organiseren in de 2 maanden. Hieronder een lijst van
 | Backend communicatie | 0 | ? |
 | Deepdive session | 0 | ? |
 
-## Communicatie
+### 3.2 Communicatie
 Hieronder resultaat van brainstormsessie over hoe we gaan communiceren als community. Een aantal van deze zaken zijn reeds gerealiseerd. Deze tools zullen regelmatig geevalueerd worden.
 
 | Kanaal | Dots | Omschrijving |
@@ -77,3 +84,42 @@ Hieronder resultaat van brainstormsessie over hoe we gaan communiceren als commu
 | Portal | 0 | |
 | Doodle | 0 | |
 | RD Website (externen) meetups | 0 | |
+
+### 3.3 Algemeen
+| Onderwerp | Dots | 
+| --------- | ---- | 
+| Pizza ipv broodjes | 11 | 
+| Gerichte oefeningen voorzien (basis <> advanced) | 10 | 
+| Locatie: Kontich | 8 | 
+| Hackaton | 7 | 
+| Demo/showcases naar klanten | 6 | 
+| Locatie: buiten RD (+ externen aantrekken) | 4 | 
+| Locatie: Huizingen | 2 | 
+| Angular day (ipv Technical Afternoon/Java conf day) | 2 | 
+| Collega's klaarstomen voor Angular - intern projecten als aanvulling voor CV | 2 | 
+| Fun events | 1 | 
+| Ondersteuning bestaande teams | 0 | 
+
+### 3.4 Verwachtingen
+| Onderwerp | Dots |
+| --------- | ---- |
+| Hands-on workshops | 8 |
+| Nieuwe technologieën | 3 |
+| K.I.S.S. Principle | 3 |
+| Biggest don'ts | 3 |
+| Hoe snel beginnen met Angular? | 2 |
+| Directives in depth | 2 |
+| Architectuur enterprise nivuea | 2 | 
+| GUI Compoment libraries | 2 | 
+| Wanneer wel/niet Angular gebruiken | 1 |
+| Best practices | 1 |
+| Project doorlichting | 1 |
+| FUN! | 1 |
+| Angular klant project krijgen | 2 |
+| Overzicht opgeleverde sites | 1 |
+| Performance van single page apps | 0 |
+| Get work done | 0 |
+| Single page vs multi | 0 |
+| Matuur web platform | 0 |
+| Best do's | 0 |
+| Not another foo bar | 0 |
