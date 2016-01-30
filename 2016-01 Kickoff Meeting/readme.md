@@ -28,7 +28,13 @@ Er zijn geen vereisten voor het basis track, stuur een mailtje naar dieter.goete
 ### 1.2 Advanced track
 Dit track loopt verder op het **basis track**, vereisten zijn dus ook dat je deze gevogld hebt of relevante ervaring. Programma is nog uit te werken, focus zal liggen op architectuur en voorbereiding op Angular 2.0.
 
-## 2. Avondsessies
+## 2. Workshop - Angular 2.0 Masterclass
+Op 18 & 19 april komen de experts van [ThoughTram](http://thoughtram.io/) om ons klaar te stomen voor Angular 2.0.
+Indien je ervaring hebt met Angular 1.x en als je hier graag bij wilt zijn, graag een mailtje naar dieter.goetelen@realdolmen.com.
+
+## 3. DOT-Voting
+
+### 3.1 Avondsessies
 Doel is om 1 avondsessie te organiseren om de 2 maanden. Hieronder een lijst van avondsessies die volgens de community het interessantst zijn. Gelieve aan te vullen indien je een sessie wilt geven, of stuur een mail naar dieter.goetelen@realdolmen.com.
 
 | Onderwerp              | Dots | Spreker  |
@@ -61,7 +67,7 @@ Doel is om 1 avondsessie te organiseren om de 2 maanden. Hieronder een lijst van
 | Backend communicatie | 0 | ? |
 | Deepdive session | 0 | ? |
 
-## Communicatie
+### 3.2 Communicatie
 Hieronder resultaat van brainstormsessie over hoe we gaan communiceren als community. Een aantal van deze zaken zijn reeds gerealiseerd. Deze tools zullen regelmatig geevalueerd worden.
 
 | Kanaal | Dots | Omschrijving |
@@ -79,7 +85,7 @@ Hieronder resultaat van brainstormsessie over hoe we gaan communiceren als commu
 | Doodle | 0 | |
 | RD Website (externen) meetups | 0 | |
 
-## Algemeen
+### 3.3 Algemeen
 | Onderwerp | Dots | 
 | --------- | ---- | 
 | Pizza ipv broodjes | 11 | 
@@ -94,7 +100,7 @@ Hieronder resultaat van brainstormsessie over hoe we gaan communiceren als commu
 | Fun events | 1 | 
 | Ondersteuning bestaande teams | 0 | 
 
-## Verwachtingen
+### 3.4 Verwachtingen
 | Onderwerp | Dots |
 | --------- | ---- |
 | Hands-on workshops | 8 |
