@@ -44,7 +44,8 @@ Doel is om 1 avondsessie te organiseren om de 2 maanden. Hieronder een lijst van
 | Ionic                  | 8    | Dieter Goetelen |
 | Unit testing           | 6    | ?        |
 | Van angular 1 naar 2   | 4    | ?        |
-| Pitfalls               | 3    | Sylvie   | Angular 2.0
+| Pitfalls               | 3    |          |
+| Pitfalls Angular 2.0   | ?    | Sylvie   | 
 | TypeScript             | 2    | ?        |
 | Animation              | 2    | ?        |
 | Sites uit de praktijk  | 2    | David De Vloo |
